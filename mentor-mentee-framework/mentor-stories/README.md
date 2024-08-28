@@ -4,4 +4,4 @@ The initiative of the CNCF Students to share the stories of great minds in the c
 
 Through these stories, students can learn about the challenges that these professionals faced, the obstacles they overcame, and the strategies they used to succeed. They can gain insight into the skills, attitudes, and behaviors that contributed to their success, and apply these lessons to their own journey.
 
-By learning from the experiences of others, students can avoid common pitfalls and mistakes, accelerate their learning, and gain the confidence and inspiration they need to pursue their own goals. The initiative of the CNCF Students is a great way to support students in their journey towards becoming experts in the field of cloud native computing.
+By learning from the experiences of others, students can avoid common pitfalls and mistakes, accelerate their learning, and gain the confidence and inspiration they need to pursue their own goals. The initiative of the CNCF Students is a great way to support students in their journey towards becoming experts in the field of cloud native computing.dfgfd
